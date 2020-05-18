@@ -1,1 +1,2 @@
 # number-guesser
+# DOM manipulation
